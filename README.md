@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ujjwalsolanki2140@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me here:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ujjwal-solanki-812368180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-solanki-812368180" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/ujjwalsolanki2140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ujjwalsolanki2140" height="30" width="40" /></a>
