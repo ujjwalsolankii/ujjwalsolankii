@@ -11,7 +11,7 @@
   <a href="https://auth.geeksforgeeks.org/user/ujjwalsolanki2140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ujjwalsolanki2140" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/ujjwalsolanki2140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjwalsolanki2140" height="30" width="40" /></a>
 <a href="https://hashnode.com/@ujjjwalsolanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ujjjwalsolanki" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ujjwalsolanki211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ujjwalsolanki211" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Ujjwalsolanki211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Ujjwalsolanki211" height="30" width="40" /></a>
 
 
 </p>
